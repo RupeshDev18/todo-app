@@ -42,7 +42,7 @@ npm install
 
 1. Start the development server:
 
-npm start
+npm run dev
 
 
 2. Open your web browser and navigate to `http://localhost:8080`.
